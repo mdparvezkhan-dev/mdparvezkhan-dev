@@ -63,11 +63,11 @@ Built and shipped Android apps using Kotlin, MVVM, Firebase and REST APIs.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdparvezkhan-dev&show_icons=true&hide_border=true&theme=transparent&title_color=2c5364&text_color=555555&icon_color=2c5364" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdparvezkhan-dev&layout=compact&hide_border=true&theme=transparent&title_color=2c5364&text_color=555555" alt="Top languages"/>
+  <a href="https://github.com/mdparvezkhan-dev?tab=followers"><img src="https://img.shields.io/github/followers/mdparvezkhan-dev?style=for-the-badge&logo=github&color=2C5364" alt="Followers"/></a>
+  <a href="https://github.com/mdparvezkhan-dev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20all-2C5364?style=for-the-badge&logo=github" alt="Repositories"/></a>
 </p>
 
 ---
