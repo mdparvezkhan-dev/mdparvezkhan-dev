@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Md%20Parvez%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%C2%B7%20Flutter%20%C2%B7%20Dart%20%C2%B7%20Kotlin&descSize=18&descAlignY=60" width="100%" alt="Md Parvez Khan"/>
 
 <a href="https://mdparvezkhan.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=700&height=50&lines=Building+fast%2C+clean%2C+user-friendly+mobile+apps;Flutter+%26+Dart+%7C+Kotlin+%7C+Firebase;Based+in+Dhaka%2C+Bangladesh" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=700&height=50&lines=Building+fast%2C+clean%2C+user-friendly+mobile+apps;Flutter+%26+Dart+%7C+Kotlin+%7C+Firebase;Clean+Code+%7C+Smart+Architecture+%7C+Better+UI-UX;Turning+Ideas+Into+Real-World+Digital+Solutions" alt="Typing intro"/>
 </a>
 
 <br/>
