@@ -1,41 +1,87 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Md%20Parvez%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%C2%B7%20Flutter%20%C2%B7%20Dart%20%C2%B7%20Kotlin&descSize=18&descAlignY=60" width="100%" alt="Md Parvez Khan"/>
+
+<a href="https://mdparvezkhan.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=700&height=50&lines=Building+fast%2C+clean%2C+user-friendly+mobile+apps;Flutter+%26+Dart+%7C+Kotlin+%7C+Firebase;Based+in+Dhaka%2C+Bangladesh" alt="Typing intro"/>
+</a>
+
+<br/>
+
+<a href="https://mdparvezkhan.com/"><img src="https://img.shields.io/badge/Portfolio-mdparvezkhan.com-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mdparvezkhan-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mdparvezkhan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+---
+
+## 👨‍💻 About
+
+I'm a **mobile app developer** with a BSc in Computer Science & Engineering from the University of Scholars. I design and build production-ready apps in **Flutter/Dart** and **Kotlin**, using clean architecture (MVVM), REST APIs and Firebase, and I've taken apps through to Play Store deployment.
+
+- 📱 Cross-platform apps with **Flutter & Dart**
+- 🤖 Native Android with **Kotlin**, Room, and MVVM
+- ☁️ Backend integration with **Firebase**, **REST APIs**, **PHP & MySQL**
+- 🌐 Portfolio & projects: **[mdparvezkhan.com](https://mdparvezkhan.com/)**
+- 📫 Open to opportunities: **mdparvezkhan.dev@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,php,mysql,html,css,c,cpp,git,github,ps&perline=7" alt="Tech stack"/>
 </p>
 
-# Hi 👋, I'm Md Parvez Khan  
-A passionate developer from Bangladesh  
+| Area | Tools |
+|---|---|
+| **Mobile** | Flutter, Dart, Kotlin, Android Studio |
+| **Architecture** | MVVM, OOP, REST APIs, Room |
+| **Backend & Data** | Firebase, PHP, MySQL |
+| **Web** | HTML, CSS |
+| **Core & Tools** | C, C++, Git, GitHub, Photoshop |
 
 ---
 
-- 🌱 I’m currently learning **Kotlin**
-- 💬 Ask me about **Android, Web Development, Programming**  
-- 📫 How to reach me: **mdparvezkhan.dev@gmail.com**  
-- ⚡ Fun fact: **I don’t fix bugs, I teach them new behaviors 🐞➡️✨**  
+## 💼 Experience
+
+**Android App Developer** · Source Tech · *Dec 2025 – May 2026*
+Built and shipped Android apps using Kotlin, MVVM, Firebase and REST APIs.
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://x.com/mdparvezkhan025" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/mdparvezkhan-dev/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/mdparvezkhan.dev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Mobi POS** | Point-of-sale app for managing sales | Kotlin · Android |
+| **Task Manager** | App for organizing and tracking daily tasks | Kotlin · Android |
+| **Anemia Detector** | Health-focused app for anemia detection | Kotlin · Android |
+
+> More projects and case studies on **[mdparvezkhan.com](https://mdparvezkhan.com/)**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdparvezkhan-dev&show_icons=true&hide_border=true&theme=transparent&title_color=2c5364&text_color=555555&icon_color=2c5364" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdparvezkhan-dev&layout=compact&hide_border=true&theme=transparent&title_color=2c5364&text_color=555555" alt="Top languages"/>
 </p>
-  
 
 ---
 
-### 🛠 Languages and Tools:
-<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img align="left" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
+## 🤝 Let's Connect
+
+I'm always happy to talk about mobile apps, Flutter, or new opportunities.
+
+<p align="center">
+  <a href="https://mdparvezkhan.com/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mdparvezkhan-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mdparvezkhan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/mdparvezkhan025"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/mdparvezkhan.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" width="100%" alt="footer"/>
